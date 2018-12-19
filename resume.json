@@ -136,14 +136,14 @@
       "keywords": [ "Git", "Git Flow", "SVN" ]
     },
     {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [ "MongoDB", "LevelDB", "PostgreSQL", "SQLite" ]
+    },
+    {
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [ "HTML", "CSS/SCSS", "Bootstrap", "JavaScript" ]
-    },
-    {
-      "name": "Databases",
-      "level": "Intermediate",
-      "keywords": [ "MongoDB", "LevelDB", "PostgreSQL", "SQLite" ]
     }
   ],
   "languages": [
