@@ -4,7 +4,8 @@
   "description": "My Resume in JSON Resume",
   "main": "index.js",
   "scripts": {
-    "start": "npx resume export resume.pdf"
+    "start": "npx resume export resume.pdf",
+    "serve": "npx resume serve"
   },
   "repository": {
     "type": "git",

@@ -1,95 +1,169 @@
 {
-    "basics": {
-      "name": "Wojciech Ossowski",
-      "label": "Software Engineer",
-      "email": "w.j.ossowski@gmail.com",
-      "phone": "(+48) 501-525-498",
-      "summary": "Goal-oriented, agile Software Engineer. I used to contribute to many C++/Qt/QML-based projects since 2013. In 2016 I turned into Server-Side JavaScript community and rapidly expand my technology stack. Constantly focused on new technologies and continuous self development. Looking for challenges. Currently I'm working as Software Engineer at Autronica Fire & Security A.S. (a subsidiary of United Technologies Corp.)",
-      "profiles": [
-        {
-          "network": "Linkedin",
-          "username": "wojciech-ossowski-78b120128"
-        },
-        {
-          "network": "Github",
-          "username": "mojtekossowski"
-        },
-        {
-          "network": "Bitbucket",
-          "username": "zavafoj"
-        }
-      ]
-    },
-    "work": [
+  "basics": {
+    "name": "Wojciech Ossowski",
+    "label": "Software Engineer",
+    "email": "w.j.ossowski@gmail.com",
+    "phone": "(+48) 501-525-498",
+    "summary": "Goal-oriented, agile Software Engineer. I used to contribute to many C++/Qt/QML-based projects since 2013. In 2016 I turned into Server-Side JavaScript community and rapidly expand my technology stack. Constantly focused on new technologies and continuous self development. Looking for challenges. Currently I'm working as R&D Software Engineer at Autronica Fire & Security A.S. (a subsidiary of United Technologies Corp.)",
+    "profiles": [
       {
-        "startDate": "2013-08-01",
-        "position": "CEO/President",
-        "company": "Pied Piper",
-        "website": "http://piedpiper.com",
-        "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-        "highlights": [
-            
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "Gdansk University of Technology",
-        "startDate": "2013-02-20",
-        "endDate": "2016-02-02",
-        "area": "Control Engineering & Robotics",
-        "studyType": "Master Engineer",
-        "gpa": "5.0"
-      }, {
-        "institution": "Gdansk University of Technology",
-        "startDate": "2009-10-01",
-        "endDate": "2013-02-02",
-        "area": "Control Engineering & Robotics",
-        "studyType": "Bachelor Engineer",
-        "gpa": "4.5"
-      }
-    ],
-    "skills": [
-      {
-        "name": "Qt/C++ Application Development",
-        "level": "Master",
-        "keywords": [ "C++", "C++11/14", "Qt",  "QML", "JavaScript", "Multiplatform", "Desktop", "Mobile" ]
-      }, {
-        "name": "Node.js Back-End Development",
-        "level": "Advanced",
-        "keywords": [ "JavaScript", "es6", "Node.js", "eslint", "Lodash", "Handlebars", "Turf.js", "mocha", "chai", "Express.js" ]
-      }, {
-        "name": "Web Development",
-        "level": "Intermediate",
-        "keywords": [ "HTML", "CSS/SCSS", "Bootstrap", "JavaScript" ]
-      }, {
-        "name": "SCM",
-        "level": "Intermediate",
-        "keywords": [ "Git", "Git Flow", "SVN" ]
-      }, {
-        "name": "Databases",
-        "level": "Intermediate",
-        "keywords": [ "MongoDB", "LevelDB", "PostgreSQL", "SQLite" ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "English",
-        "fluency": "Advanced (C1)"
+        "network": "Linkedin",
+        "username": "wojciech-ossowski-78b120128",
+        "url": "https://www.linkedin.com/in/wojciech-ossowski-78b120128/"
       },
       {
-        "language": "German",
-        "fluency": "Beginner (A1)"
+        "network": "Github",
+        "username": "mojtekossowski",
+        "url": "https://github.com/mojtekossowski"
       },
       {
-        "language": "Polish",
-        "fluency": "Native"
-      }
-    ],
-    "references": [
-      {
-        "name": "Tomasz Stelmach",
-        "reference": "I have no hesitation in recommending Wojciech to any organization or confirmation to references."
+        "network": "Bitbucket",
+        "username": "zavafoj",
+        "url": "https://bitbucket.org/zavafoj/"
       }
     ]
-  }
+  },
+  "work": [
+    {
+      "startDate": "2017-06-01",
+      "position": "Software Engineer",
+      "company": "Autronica Fire & Security A.S. (United Technologies)",
+      "website": "autronicafire.no",
+      "summary": "R&D Software Engineer",
+      "highlights": [
+        "Working in Agile environment",
+        "Implementation of key features in flagship product - AutroMaster (both client and Server side)",
+        "Involved in many projects - AutroSafe, AutroPrime, AutroSim",
+        "Development of tools used in fire detection industry",
+        "Fire panels and Monitoring system integration, dealing with gas/fire/smoke detectors with various configurations",
+        "Working closely to embedded systems (configuration built on both simulation and physical environment)",
+        "Sustaining",
+        "Core technologies: Nodejs, C++11/14, Qt, QML, Angular"
+      ]
+    }, {
+      "startDate": "2016-10-01",
+      "endDate": "2017-05-30",
+      "position": "Qt Software Engineer",
+      "company": "Milo Solutions",
+      "website": "milosolutions.com",
+      "summary": "Qt-based Mobile/Desktop application development",
+      "highlights": [
+        "Fulfilling client’s requrements", 
+        "Implementing key features",
+        "Preparing estimations",
+        "Development of video editing tool for Windows/OSX (pledged on KickStarter)",
+        "Development of encrypted white-labeled communicator for Linux/Android/BlackBerry/Yolla",
+        "Bugfixing",
+        "Refactoring",
+        "Technologies: C++11/14, Qt, QML"
+      ]
+    }, {
+      "startDate": "2016-01-01",
+      "endDate": "2016-09-30",
+      "position": "Associate Software Developer",
+      "company": "Misys Global Ltd. (now Finastra)",
+      "website": "www.finastra.com",
+      "summary": "Care and maintenance of flagship risk management software - Kondor+",
+      "highlights": [
+        "HighDpi integration of User Interface",
+        "Bugfixing",
+        "Technologies: C++, Qt, Sybase ASE"
+      ]
+    }, {
+      "startDate": "2014-06-01",
+      "endDate": "2015-10-15",
+      "position": "Software Engineer",
+      "company": "SFAR S.C. (now Global Control 5 sp. z o.o.)",
+      "website": "gc5.pl",
+      "summary": "Used to create configuration software and web services",
+      "highlights": [
+        "Implemention of new functionalities of configuration software (C#)",
+        "Mobile application development for devices - pledged on KickStarter (Qt)",
+        "Creating maintenance applications for line of devices (USB-hid, Modbus)",
+        "Embedded-hosted configuration web services for Automation devices (Web/VanillaJS)",
+        "Embedded Linux development (Python/Shell scripts)",
+        "Bugfixing",
+        "Technologies: C#, C++/Qt, Web/JavaScript"
+      ]
+    }, {
+      "startDate": "2013-08-01",
+      "endDate": "2014-01-01",
+      "position": "Qt Software Engineer",
+      "company": "3CityElectronis",
+      "website": "3cityelectronics.com",
+      "summary": "Middleware application developer. Used to create configuration software in C++/Qt",
+      "highlights": [
+        "Creation and deployment of middleware bridge-sever between configuration software and hardware",
+        "Implementing new functionalities of configuration software",
+        "Writing and executing tests",
+        "Bugfixing",
+        "Technologies: C++/Qt"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gdansk University of Technology",
+      "startDate": "2013-02-20",
+      "endDate": "2016-02-02",
+      "area": "Control Engineering & Robotics",
+      "studyType": "Master Engineer",
+      "gpa": "5.0"
+    },
+    {
+      "institution": "Gdansk University of Technology",
+      "startDate": "2009-10-01",
+      "endDate": "2013-02-02",
+      "area": "Control Engineering & Robotics",
+      "studyType": "Bachelor Engineer",
+      "gpa": "4.5"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Qt/C++ Application Development",
+      "level": "Master",
+      "keywords": [ "C++", "C++11/14", "Qt", "QML", "JavaScript", "Multiplatform", "Desktop", "Mobile" ]
+    },
+    {
+      "name": "Node.js Back-End Development",
+      "level": "Advanced",
+      "keywords": [ "JavaScript", "es6", "Node.js", "eslint", "Lodash", "Handlebars", "Turf.js", "mocha", "chai", "Express.js", "...and many others..." ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [ "HTML", "CSS/SCSS", "Bootstrap", "JavaScript" ]
+    },
+    {
+      "name": "SCM",
+      "level": "Intermediate",
+      "keywords": [ "Git", "Git Flow", "SVN" ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [ "MongoDB", "LevelDB", "PostgreSQL", "SQLite" ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced (C1)"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner (A1)"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Native"
+    }
+  ],
+  "references": [
+    {
+      "name": "Tomasz Stelmach",
+      "reference": "I have no hesitation in recommending Wojciech to any organization or confirmation to references."
+    }
+  ]
+}
