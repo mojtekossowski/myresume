@@ -35,15 +35,15 @@
     "education": [
       {
         "institution": "Gdansk University of Technology",
-        "startDate": "2013",
-        "endDate": "2016",
+        "startDate": "2013-02-20",
+        "endDate": "2016-02-02",
         "area": "Control Engineering & Robotics",
         "studyType": "Master Engineer",
         "gpa": "5.0"
       }, {
         "institution": "Gdansk University of Technology",
-        "startDate": "2009",
-        "endDate": "2013",
+        "startDate": "2009-10-01",
+        "endDate": "2013-02-02",
         "area": "Control Engineering & Robotics",
         "studyType": "Bachelor Engineer",
         "gpa": "4.5"
