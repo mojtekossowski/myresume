@@ -4,7 +4,7 @@
   "description": "My Resume in JSON Resume",
   "main": "index.js",
   "scripts": {
-    "start": "npx resume export resume.html --theme modern",
+    "start": "npx resume export resume.html --theme stackoverflow",
     "poststart": "npx html-pdf resume.html resume.pdf"
   },
   "repository": {
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mojtekossowski/myresume#readme",
   "dependencies": {
     "html-pdf": "^2.2.0",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^1.1.2"
   }
 }
