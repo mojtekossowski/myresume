@@ -1,0 +1,73 @@
+{
+    "basics": {
+      "name": "Wojciech Ossowski",
+      "label": "Software Engineer",
+      "email": "w.j.ossowski@gmail.com",
+      "phone": "(+48) 501-525-498",
+      "summary": "Goal-oriented, Agile Software Engineer. Currently I'm working as Software Engineer at Autronica Fire & Security A.S. (a subsidiary of United Technologies Corp.)",
+      "profiles": [
+        {
+          "network": "Linkedin",
+          "username": "wojciech-ossowski-78b120128"
+        },
+        {
+          "network": "Github",
+          "username": "mojtekossowski"
+        },
+        {
+          "network": "Bitbucket",
+          "username": "zavafoj"
+        }
+      ]
+    },
+    "work": [
+      {
+        "startDate": "2013-12-01",
+        "position": "CEO/President",
+        "company": "Pied Piper",
+        "website": "http://piedpiper.com",
+        "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+        "highlights": [
+          "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+          "Successfully won Techcrunch Disrupt",
+          "Optimized an algorithm that holds the current world record for Weisman Scores"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Gdansk University of Technology",
+        "startDate": "2009-10-01",
+        "endDate": "2013-02-01",
+        "area": "Control Engineering & Robotics",
+        "studyType": "Bachelor Engineer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Qt/C++ Application Development",
+        "level": "Master",
+        "keywords": [ "Qt", "C++", "QML", "JavaScript", "Multiplatform" ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Advanced (C1)"
+      },
+      {
+        "language": "German",
+        "fluency": "Beginner (A1)"
+      },
+      {
+        "language": "Polish",
+        "fluency": "Native"
+      }
+    ],
+    "references": [
+      {
+        "name": "Tomasz Stelmach",
+        "reference": "It is my pleasure to recommend Wojciech, his performance working as a software engineer for UTC Fire & Security proved that he will be a valuable addition to any company."
+      }
+    ]
+  }

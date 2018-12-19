@@ -1,0 +1,24 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "My Resume in JSON Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojtekossowski/myresume.git"
+  },
+  "keywords": [
+    "jsonresume",
+    "resume",
+    "json"
+  ],
+  "author": "Wojciech Ossowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojtekossowski/myresume/issues"
+  },
+  "homepage": "https://github.com/mojtekossowski/myresume#readme"
+}
