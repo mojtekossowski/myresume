@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mojtekossowski/myresume/issues"
   },
-  "homepage": "https://github.com/mojtekossowski/myresume#readme"
+  "homepage": "https://github.com/mojtekossowski/myresume#readme",
+  "dependencies": {
+    "resume-cli": "^1.1.2"
+  }
 }

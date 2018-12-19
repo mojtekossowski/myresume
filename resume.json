@@ -4,7 +4,7 @@
       "label": "Software Engineer",
       "email": "w.j.ossowski@gmail.com",
       "phone": "(+48) 501-525-498",
-      "summary": "Goal-oriented, Agile Software Engineer. Currently I'm working as Software Engineer at Autronica Fire & Security A.S. (a subsidiary of United Technologies Corp.)",
+      "summary": "Goal-oriented, agile Software Engineer. I used to contribute to many C++/Qt/QML-based projects since 2013. In 2016 I turned into Server-Side JavaScript community and rapidly expand my technology stack. Constantly focused on new technologies and continuous self development. Looking for challenges. Currently I'm working as Software Engineer at Autronica Fire & Security A.S. (a subsidiary of United Technologies Corp.)",
       "profiles": [
         {
           "network": "Linkedin",
@@ -22,32 +22,54 @@
     },
     "work": [
       {
-        "startDate": "2013-12-01",
+        "startDate": "2013-08-01",
         "position": "CEO/President",
         "company": "Pied Piper",
         "website": "http://piedpiper.com",
         "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
         "highlights": [
-          "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-          "Successfully won Techcrunch Disrupt",
-          "Optimized an algorithm that holds the current world record for Weisman Scores"
+            
         ]
       }
     ],
     "education": [
       {
         "institution": "Gdansk University of Technology",
-        "startDate": "2009-10-01",
-        "endDate": "2013-02-01",
+        "startDate": "2013",
+        "endDate": "2016",
         "area": "Control Engineering & Robotics",
-        "studyType": "Bachelor Engineer"
+        "studyType": "Master Engineer",
+        "gpa": "5.0"
+      }, {
+        "institution": "Gdansk University of Technology",
+        "startDate": "2009",
+        "endDate": "2013",
+        "area": "Control Engineering & Robotics",
+        "studyType": "Bachelor Engineer",
+        "gpa": "4.5"
       }
     ],
     "skills": [
       {
         "name": "Qt/C++ Application Development",
         "level": "Master",
-        "keywords": [ "Qt", "C++", "QML", "JavaScript", "Multiplatform" ]
+        "keywords": [ "C++", "C++11/14", "Qt",  "QML", "JavaScript", "Multiplatform", "Desktop", "Mobile" ]
+      }, {
+        "name": "Node.js Back-End Development",
+        "level": "Advanced",
+        "keywords": [ "JavaScript", "es6", "Node.js", "eslint", "Lodash", "Handlebars", "Turf.js", "mocha", "chai", "Express.js" ]
+      }, {
+        "name": "Web Development",
+        "level": "Intermediate",
+        "keywords": [ "HTML", "CSS/SCSS", "Bootstrap", "JavaScript" ]
+      }, {
+        "name": "SCM",
+        "level": "Intermediate",
+        "keywords": [ "Git", "Git Flow", "SVN" ]
+      }, {
+        "name": "Databases",
+        "level": "Intermediate",
+        "keywords": [ "MongoDB", "LevelDB", "PostgreSQL", "SQLite" ]
       }
     ],
     "languages": [
@@ -67,7 +89,7 @@
     "references": [
       {
         "name": "Tomasz Stelmach",
-        "reference": "It is my pleasure to recommend Wojciech, his performance working as a software engineer for UTC Fire & Security proved that he will be a valuable addition to any company."
+        "reference": "I have no hesitation in recommending Wojciech to any organization or confirmation to references."
       }
     ]
   }
