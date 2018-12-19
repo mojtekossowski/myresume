@@ -28,7 +28,7 @@
       "startDate": "2017-06-01",
       "position": "Software Engineer",
       "company": "Autronica Fire & Security A.S. (United Technologies)",
-      "website": "autronicafire.no",
+      "website": "https://www.autronicafire.com",
       "summary": "R&D Software Engineer",
       "highlights": [
         "Working in Agile environment",
@@ -45,7 +45,7 @@
       "endDate": "2017-05-30",
       "position": "Qt Software Engineer",
       "company": "Milo Solutions",
-      "website": "milosolutions.com",
+      "website": "https://www.milosolutions.com/",
       "summary": "Qt-based Mobile/Desktop application development",
       "highlights": [
         "Fulfilling client’s requrements", 
@@ -62,7 +62,7 @@
       "endDate": "2016-09-30",
       "position": "Associate Software Developer",
       "company": "Misys Global Ltd. (now Finastra)",
-      "website": "www.finastra.com",
+      "website": "https://www.finastra.com",
       "summary": "Care and maintenance of flagship risk management software - Kondor+",
       "highlights": [
         "HighDpi integration of User Interface",
@@ -74,7 +74,7 @@
       "endDate": "2015-10-15",
       "position": "Software Engineer",
       "company": "SFAR S.C. (now Global Control 5 sp. z o.o.)",
-      "website": "gc5.pl",
+      "website": "https://gc5.pl/",
       "summary": "Used to create configuration software and web services",
       "highlights": [
         "Implemention of new functionalities of configuration software (C#)",
@@ -90,7 +90,7 @@
       "endDate": "2014-01-01",
       "position": "Qt Software Engineer",
       "company": "3CityElectronis",
-      "website": "3cityelectronics.com",
+      "website": "https://3cityelectronics.com/",
       "summary": "Middleware application developer. Used to create configuration software in C++/Qt",
       "highlights": [
         "Creation and deployment of middleware bridge-sever between configuration software and hardware",

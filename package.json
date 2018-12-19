@@ -4,8 +4,8 @@
   "description": "My Resume in JSON Resume",
   "main": "index.js",
   "scripts": {
-    "start": "npx resume export resume.pdf",
-    "serve": "npx resume serve"
+    "start": "npx resume export resume.html --theme modern",
+    "poststart": "npx html-pdf resume.html resume.pdf"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mojtekossowski/myresume#readme",
   "dependencies": {
+    "html-pdf": "^2.2.0",
     "resume-cli": "^1.1.2"
   }
 }

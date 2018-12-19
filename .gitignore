@@ -81,3 +81,7 @@ typings/
 
 # No Pdfs inside
 *.pdf
+
+# No resume outputs
+resume.html
+resume.pdf
