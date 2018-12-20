@@ -7,10 +7,10 @@ const pdfOptions = {
     width: '297mm',
     height: '400mm',
     border: {
-        top: "2in",
-        right: "1in",
-        bottom: "2in",
-        left: "1in"
+        top: "0.35in",
+        bottom: "0.35in",
+        left: "0.5in",
+        right: "0.5in"
     },
 };
 
