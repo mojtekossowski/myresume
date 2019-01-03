@@ -22,6 +22,11 @@
         "network": "Bitbucket",
         "username": "zavafoj",
         "url": "https://bitbucket.org/zavafoj/"
+      },
+      {
+        "network": "Codepen",
+        "username": "w.j.ossowski",
+        "url": "https://www.codewars.com/users/w.j.ossowski"
       }
     ]
   },
@@ -42,7 +47,8 @@
         "Sustaining",
         "Core technologies: Nodejs, C++11/14, Qt, QML, Angular"
       ]
-    }, {
+    },
+    {
       "startDate": "2016-10-01",
       "endDate": "2017-05-30",
       "position": "Qt Software Engineer",
@@ -50,7 +56,7 @@
       "website": "https://www.milosolutions.com/",
       "summary": "Qt-based Mobile/Desktop application development",
       "highlights": [
-        "Fulfilling client’s requrements", 
+        "Fulfilling client’s requrements",
         "Implementing key features",
         "Preparing estimations",
         "Development of video editing tool for Windows/OSX (pledged on KickStarter)",
@@ -59,7 +65,8 @@
         "Refactoring",
         "Technologies: C++11/14, Qt, QML"
       ]
-    }, {
+    },
+    {
       "startDate": "2016-01-01",
       "endDate": "2016-09-30",
       "position": "Associate Software Developer",
@@ -71,7 +78,8 @@
         "Bugfixing",
         "Technologies: C++, Qt, Sybase ASE"
       ]
-    }, {
+    },
+    {
       "startDate": "2014-06-01",
       "endDate": "2015-10-15",
       "position": "Software Engineer",
@@ -87,7 +95,8 @@
         "Bugfixing",
         "Technologies: C#, C++/Qt, Web/JavaScript"
       ]
-    }, {
+    },
+    {
       "startDate": "2013-08-01",
       "endDate": "2014-01-01",
       "position": "Qt Software Engineer",
@@ -125,27 +134,62 @@
     {
       "name": "Qt/C++ Application Development",
       "level": "Master",
-      "keywords": [ "C++", "C++11/14", "Qt", "QML", "JavaScript", "Multiplatform", "Desktop", "Mobile" ]
+      "keywords": [
+        "C++",
+        "C++11/14",
+        "Qt",
+        "QML",
+        "JavaScript",
+        "Multiplatform",
+        "Desktop",
+        "Mobile"
+      ]
     },
     {
       "name": "Node.js Back-End Development",
       "level": "Advanced",
-      "keywords": [ "JavaScript", "es6", "Node.js", "eslint", "Lodash", "Handlebars", "Turf.js", "mocha", "chai", "Express.js", "...and many others..." ]
+      "keywords": [
+        "JavaScript",
+        "es6",
+        "Node.js",
+        "eslint",
+        "Lodash",
+        "Handlebars",
+        "Turf.js",
+        "mocha",
+        "chai",
+        "Express.js",
+        "...and many others..."
+      ]
     },
     {
       "name": "SCM",
       "level": "Advanced",
-      "keywords": [ "Git", "Git Flow", "SVN" ]
+      "keywords": [
+        "Git",
+        "Git Flow",
+        "SVN"
+      ]
     },
     {
       "name": "Databases",
       "level": "Advanced",
-      "keywords": [ "MongoDB", "LevelDB", "PostgreSQL", "SQLite" ]
+      "keywords": [
+        "MongoDB",
+        "LevelDB",
+        "PostgreSQL",
+        "SQLite"
+      ]
     },
     {
       "name": "Web Development",
       "level": "Intermediate",
-      "keywords": [ "HTML", "CSS/SCSS", "Bootstrap", "JavaScript" ]
+      "keywords": [
+        "HTML",
+        "CSS/SCSS",
+        "Bootstrap",
+        "JavaScript"
+      ]
     }
   ],
   "languages": [
