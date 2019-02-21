@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mojtekossowski/myresume#readme",
   "dependencies": {
     "html-pdf": "^2.2.0",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^1.1.2"
   }
 }
