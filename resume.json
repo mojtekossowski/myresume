@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Wojciech Ossowski",
-    "label": "Software Engineer",
+    "label": "Senior Node.js Developer",
     "email": "w.j.ossowski@gmail.com",
     "phone": "(+48) 501-525-498",
     "picture": "https://avatars0.githubusercontent.com/u/8574024",
     "website": "https://mojtekossowski.github.io",
-    "summary": "Goal-oriented, agile Software Engineer.\nI used to contribute to many C++/Qt/QML-based projects since 2013.\nIn 2016 I turned into Server-Side JavaScript community and rapidly expanded my technology stack.\nConstantly focused on new technologies and continuous self development.\nAlways looking for challenges.\nCurrently I'm working as R&D Software Engineer at Autronica Fire & Security A.S. (a subsidiary of United Technologies Corp.)",
+    "summary": "Goal-oriented, agile Software Engineer.\nI used to contribute to many C++/Qt/QML-based projects since 2013.\nIn 2016 I turned into Server-Side JavaScript community and rapidly expanded my technology stack.\nConstantly focused on new technologies and continuous self development.\nAlways looking for challenges.\nCurrently I'm working as a Senior Node.js Developer at Netguru",
     "profiles": [
       {
         "network": "Linkedin",
@@ -32,7 +32,25 @@
   },
   "work": [
     {
+      "startDate": "2019-04-01",
+      "position": "Senior Node.js Developer",
+      "company": "Netguru",
+      "website": "https://www.netguru.com",
+      "summary": "Node.js-based Web development",
+      "highlights": [
+        "Implementation of chatbot - Slack-based business processes automation tool",
+        "Integrating chatbot with external data sources - Jira, Salesforce, GoogleSheets, etc",
+        "Dealing with CI/CD processes on destination environment",
+        "Fulfilling client’s & stakeholders' requrements",
+        "Preparing estimations",
+        "Introducing new team members",
+        "Mentoring",
+        "Technologies: Node.js, es6, Hubot, Heroku, GoogleCloudPlatform, Googleapis, circleCI"
+      ]
+    },
+    {
       "startDate": "2017-06-01",
+      "endDate": "2019-02-28",
       "position": "Software Engineer",
       "company": "Autronica Fire & Security A.S. (United Technologies)",
       "website": "https://www.autronicafire.com",
@@ -45,7 +63,7 @@
         "Fire panels and Monitoring system integration, dealing with gas/fire/smoke detectors with various configurations",
         "Working closely to embedded systems (configuration built on both simulation and physical environment)",
         "Sustaining",
-        "Core technologies: Nodejs, C++11/14, Qt, QML, Angular"
+        "Core technologies: Node.js, C++11/14, Qt, QML, Angular"
       ]
     },
     {
@@ -118,7 +136,7 @@
       "startDate": "2013-02-20",
       "endDate": "2016-02-02",
       "area": "Control Engineering & Robotics",
-      "studyType": "Master Engineer",
+      "studyType": "Master Engineer (studies in English)",
       "gpa": "5.0"
     },
     {
@@ -158,6 +176,10 @@
         "Turf.js",
         "mocha",
         "chai",
+        "asyncro",
+        "koa",
+        "moment",
+        "jsforce",
         "Express.js",
         "...and many others..."
       ]
@@ -168,7 +190,8 @@
       "keywords": [
         "Git",
         "Git Flow",
-        "SVN"
+        "SVN",
+        "CI/CD"
       ]
     },
     {
@@ -179,16 +202,6 @@
         "LevelDB",
         "PostgreSQL",
         "SQLite"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS/SCSS",
-        "Bootstrap",
-        "JavaScript"
       ]
     }
   ],
@@ -208,7 +221,11 @@
   ],
   "references": [
     {
-      "name": "Tomasz Stelmach",
+      "name": "Łukasz Pieczkowski (Project Manager at United Technologies Fire & Security)",
+      "reference": "Wojtek proved to be very talented and skilled developer. I enjoyed working with him and would recommend him as a developer with no hesitation."
+    },
+    {
+      "name": "Tomasz Stelmach (Manager at United Technologies Fire & Security)",
       "reference": "I have no hesitation in recommending Wojciech to any organization or confirmation to references."
     }
   ]
