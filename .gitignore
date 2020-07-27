@@ -83,5 +83,7 @@ typings/
 *.pdf
 
 # No resume outputs
-resume.html
-resume.pdf
+out/*
+
+# Macos indexing
+.DS_Store

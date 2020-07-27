@@ -6,7 +6,7 @@
     "phone": "(+48) 501-525-498",
     "picture": "https://avatars0.githubusercontent.com/u/8574024",
     "website": "https://mojtekossowski.github.io",
-    "summary": "Goal-oriented, agile Software Engineer.\nI used to contribute to many C++/Qt/QML-based projects since 2013.\nIn 2016 I turned into Server-Side JavaScript community and rapidly expanded my technology stack.\nConstantly focused on new technologies and continuous self development.\nAlways looking for challenges.\nCurrently I'm working as a Senior Node.js Developer at Netguru",
+    "summary": "Goal-oriented, agile, pragmatic Full Stack Software Developer.\nI believe that well understanding of Business Domain and close cooperation with Domain Experts combined with choosing right technologies to certain solution leads to Software Success.\nCurrently I'm working as a Senior Software Engineer at Autronica Fire & Security A.S. (a Carrier Corp. Business Unit)",
     "profiles": [
       {
         "network": "Linkedin",
@@ -19,11 +19,6 @@
         "url": "https://github.com/mojtekossowski"
       },
       {
-        "network": "Bitbucket",
-        "username": "zavafoj",
-        "url": "https://bitbucket.org/zavafoj/"
-      },
-      {
         "network": "Codepen",
         "username": "w.j.ossowski",
         "url": "https://www.codewars.com/users/w.j.ossowski"
@@ -32,7 +27,25 @@
   },
   "work": [
     {
+      "startDate": "2019-09-01",
+      "position": "Senior Software Engineer",
+      "company": "Autronica Fire & Security A.S. (a Carrier Corp. Business Unit)",
+      "website": "https://www.autronicafire.com",
+      "summary": "Full Stack Software Development - Backend, Web & Mobile",
+      "highlights": [
+        "Design and implementation of Event-driven fire detection and monitoring cloud solution",
+        "Implementation Service-oriented architecture - achieved with hexagonal architecture and DDD consumed by Web (2), gRPC(1) and Mobile(2) clients - Written in TS, hosted on AWS over Kubernetes",
+        "Development of Mobile and Tablet clients with React Native used for Comissioning and Monitoring of Fire Alarm Systems",
+        "Implementation of Single-page Web applications with React - Customer Dashboard and Admin Panel",
+        "Implementation of Proxy Client (CloudConnector) for 3rd party and legacy systems to communicate with Cloud over gRPC",
+        "Building CI/CD pipelines for mobile applications with distribution over AppStore and Google Play",
+        "Methodologies: Domain-Driven Design, Test Driven Development, Event Storming, Event Sourcing, CQRS",
+        "Core technologies: Node.js, Typescript, ES6, PostgreSQL, Redis, Socket.io, AWS, React, React Native, REST, gRPC, Docker, Kubernetes, Nats, Linkerd"
+      ]
+    },
+    {
       "startDate": "2019-04-01",
+      "endDate": "2019-08-31",
       "position": "Senior Node.js Developer",
       "company": "Netguru",
       "website": "https://www.netguru.com",
@@ -52,7 +65,7 @@
       "startDate": "2017-06-01",
       "endDate": "2019-02-28",
       "position": "Software Engineer",
-      "company": "Autronica Fire & Security A.S. (United Technologies)",
+      "company": "Autronica Fire & Security A.S. (an United Technologies Business Unit)",
       "website": "https://www.autronicafire.com",
       "summary": "R&D Software Engineer",
       "highlights": [
@@ -150,58 +163,106 @@
   ],
   "skills": [
     {
+      "name": "Software design",
+      "keywords": [
+        "Object-Oriented Programming",
+        "Domain-Driven Design",
+        "Event Sourcing + CQRS",
+        "Event Storming",
+        "Behaviour-Driven Design"
+      ]
+    },
+    {
+      "name": "Node.js Backend Development",
+      "keywords": [
+        "JavaScript",
+        "es6/es7/es-next",
+        "Node.js",
+        "Typescript",
+        "Mongoose",
+        "Lodash",
+        "Ramda",
+        "Handlebars",
+        "Turf.js",
+        "moment",
+        "bcrypt",
+        "jwt",
+        "helmet",
+        "axios",
+        "Express.js",
+        "pg",
+        "redis",
+        "winston",
+        "...and many others..."
+      ]
+    },
+    {
+      "name": "Node.js Environment",
+      "keywords": [
+        "npm",
+        "gyp",
+        "nvm",
+        "yarn",
+        "eslint",
+        "tslint",
+        "webpack",
+        "prettier",
+        "husky",
+        "N-Api"
+      ]
+    },
+    {
+      "name": "SCM",
+      "keywords": ["Git", "Git Flow", "Github Flow", "CI/CD", "fastlane"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "MongoDB", "SQLite", "Redis"]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "TDD",
+        "mocha",
+        "chai",
+        "jest",
+        "supertest",
+        "Cypress",
+        "test pyramid"
+      ]
+    },
+    {
+      "name": "Frontend development",
+      "keywords": [
+        "React",
+        "React Native",
+        "Higher-order Components",
+        "Redux",
+        "Redux Form",
+        "formik",
+        "Lodash",
+        "Ramda",
+        "i18n: intl, react-intl",
+        "moment",
+        "fortawesome",
+        "jwt-decode",
+        "JSX",
+        "CSS",
+        "SCSS",
+        "CSS in JS"
+      ]
+    },
+    {
       "name": "Qt/C++ Application Development",
-      "level": "Master",
       "keywords": [
         "C++",
         "C++11/14",
         "Qt",
         "QML",
-        "JavaScript",
+        "JavaScript (aka V4)",
         "Multiplatform",
         "Desktop",
         "Mobile"
-      ]
-    },
-    {
-      "name": "Node.js Back-End Development",
-      "level": "Advanced",
-      "keywords": [
-        "JavaScript",
-        "es6",
-        "Node.js",
-        "eslint",
-        "Lodash",
-        "Handlebars",
-        "Turf.js",
-        "mocha",
-        "chai",
-        "asyncro",
-        "koa",
-        "moment",
-        "jsforce",
-        "Express.js",
-        "...and many others..."
-      ]
-    },
-    {
-      "name": "SCM",
-      "level": "Advanced",
-      "keywords": [
-        "Git",
-        "Git Flow",
-        "SVN",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "Databases",
-      "level": "Advanced",
-      "keywords": [
-        "MongoDB",
-        "LevelDB",
-        "PostgreSQL",
-        "SQLite"
       ]
     }
   ],
@@ -216,7 +277,7 @@
     },
     {
       "language": "Polish",
-      "fluency": "Native"
+      "fluency": "Native speaker"
     }
   ],
   "references": [
@@ -225,7 +286,7 @@
       "reference": "Wojtek proved to be very talented and skilled developer. I enjoyed working with him and would recommend him as a developer with no hesitation."
     },
     {
-      "name": "Tomasz Stelmach (Manager at United Technologies Fire & Security)",
+      "name": "Tomasz Stelmach (R&D Manager at United Technologies Fire & Security)",
       "reference": "I have no hesitation in recommending Wojciech to any organization or confirmation to references."
     }
   ]

@@ -2,10 +2,10 @@
   "name": "myresume",
   "version": "1.0.0",
   "description": "My Resume in JSON Resume",
-  "main": "index.js",
   "scripts": {
-    "prestart": "npx resume export resume.html --theme stackoverflow",
-    "start": "node index.js resume.html resume.pdf"
+    "start": "open ./out/resume.html",
+    "prestart": "npm run export",
+    "export": "(cd assets && npx resume export ../out/resume.html --theme stackoverflow)"
   },
   "repository": {
     "type": "git",
@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/mojtekossowski/myresume#readme",
   "dependencies": {
-    "html-pdf": "^2.2.0",
     "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^1.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
